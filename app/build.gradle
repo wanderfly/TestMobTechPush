@@ -36,7 +36,11 @@ MobSDK {
 
     // 调用MobPush
     MobPush {
-
+        devInfo {
+            HUAWEI {
+                appId "103840797"
+            }
+        }
     }
 }
 
